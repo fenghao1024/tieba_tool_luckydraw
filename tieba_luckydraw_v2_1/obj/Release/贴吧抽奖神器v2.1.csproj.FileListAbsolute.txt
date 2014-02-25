@@ -1,0 +1,3 @@
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Release\贴吧抽奖神器v2.1.exe.config
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Release\贴吧抽奖神器v2.1.exe
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Release\贴吧抽奖神器v2.1.pdb

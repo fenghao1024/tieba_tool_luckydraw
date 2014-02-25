@@ -1,0 +1,16 @@
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Debug\tieba_luckydraw_v2_1.exe.config
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Debug\tieba_luckydraw_v2_1.exe.manifest
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Debug\tieba_luckydraw_v2_1.application
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Debug\tieba_luckydraw_v2_1.exe
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\bin\Debug\tieba_luckydraw_v2_1.pdb
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\BMX_TieBarTool.Form1.resources
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\BMX_TieBarTool.InsertInfoForm.resources
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\BMX_TieBarTool.InsertPrizeItemForm.resources
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\BMX_TieBarTool.Properties.Resources.resources
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\BMX_TieBarTool.SearchForm.resources
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.csproj.GenerateResource.Cache
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.TrustInfo.xml
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.exe.manifest
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.application
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.exe
+E:\贴吧抽奖神器v2.0\贴吧抽奖神器v2.0\obj\Debug\tieba_luckydraw_v2_1.pdb

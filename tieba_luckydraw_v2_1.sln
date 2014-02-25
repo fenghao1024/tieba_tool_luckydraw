@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tieba_luckydraw_v2_1", "贴吧抽奖神器v2.0\tieba_luckydraw_v2_1.csproj", "{10C85851-9AA5-4C37-AA6C-5AD2F6E59908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C85851-9AA5-4C37-AA6C-5AD2F6E59908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C85851-9AA5-4C37-AA6C-5AD2F6E59908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C85851-9AA5-4C37-AA6C-5AD2F6E59908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C85851-9AA5-4C37-AA6C-5AD2F6E59908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
